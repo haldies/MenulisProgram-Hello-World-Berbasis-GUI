@@ -1,6 +1,7 @@
 # MenulisProgram-Hello-World-Berbasis-GUI
 1. Buatlah program JAVA yang berfungsi untuk mencetak output di layar monitor seperti berikut ini: “Belajar JAVA” “Sangat mudah sekali” “dan sangat menyenangkan” 
 2. Buatlah program JAVA dengan hasil output seperti ini: 
-3. Buatlah resume(ulasan) informasi tentang versi terakhir JAVA saat ini ! Jelaskan fitur-fitur yang ditambahkan beserta kelebihan-kelebihannya 
-![image](https://user-images.githubusercontent.com/81854080/191392956-0f3f2ca9-0488-478e-9ac7-cb379167ac1b.png)
+3. ![image](https://user-images.githubusercontent.com/81854080/191393052-1635bdcd-7d59-4317-8196-a2800c8e0b48.png)
+4. Buatlah resume(ulasan) informasi tentang versi terakhir JAVA saat ini ! Jelaskan fitur-fitur yang ditambahkan beserta kelebihan-kelebihannya 
+
 Note : Pengumpulan tugas wajib menggunakan link dari github atau gitlab
